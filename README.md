@@ -6,7 +6,7 @@
 2. Trigger event listeners on DOM nodes
 3. Explain the difference between bubbling and capturing events
 
-Before we get started, follow [these instructions](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) to manually fork and clone the lesson repository on GitHub. In your forked and cloned copy, you'll find `index.html`, which you can then open up in the browser. (For instructions on opening HTML files in the browser from the Learn IDE, see [this Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide).)
+Before we get started, follow [these instructions](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) to manually fork and clone the lesson repository on GitHub. In your forked and cloned copy, you'll find `index.html`, which you can then open up in the browser. (For instructions on opening HTML files in the browser from the Learn IDE, see [this Help Center article](httpserver).)
 
 ## Say what?
 
